@@ -1,0 +1,9 @@
+U ovaj file cu unijeti sve podatke o jednoj osobi!
+Kako se zoves?
+Ime :amra
+Kako se prezivas?
+Prezime: daKoliko godina imas?
+Godine: dadaGdje si rodjen?
+Mjesto rodjenja: 23Tvoja email adresa? 
+Email adresa: na dunjalukuTvoji hobiji?
+Godine: ne pitaj
